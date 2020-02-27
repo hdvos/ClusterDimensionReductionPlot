@@ -10,10 +10,6 @@ Full code and documentation can be found in CDRP.py
 
 
 
-
-
-
-<!DOCTYPE html>
 <html lang="en">
   
   <head>
