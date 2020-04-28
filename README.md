@@ -6,4 +6,10 @@ example.py gives an example on how the script can be used.
 
 Full code and documentation can be found in CDRP.py
 
+Python packages that you need that are not in the standard library:
 
+bokeh
+nltk
+numpy
+sklearn
+textwrap
