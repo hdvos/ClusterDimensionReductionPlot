@@ -1,6 +1,6 @@
 from CDRP import ClusterDimRedPLot
 
-texts = []
+texts = []     # texts is be a list of strings where every string is a text.
 
 with open('1000_ab_scientometrics.csv', 'rt') as f:
     texts = f.readlines()
